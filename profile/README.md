@@ -1,3 +1,8 @@
+<p align="center"><img src="https://raw.githubusercontent.com/slf-auth/slf-auth/main/src/public/assets/slf-auth.png" alt="lyezinho" /></a> 
+</p>
+
+
+
 # SLF-Auth
 
 SLF-Auth is an ambitious open-source authentication project designed to simplify and enhance the authentication process for developers. We believe in the power of open code to empower developers and make their lives better and easier.
