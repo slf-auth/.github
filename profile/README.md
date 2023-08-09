@@ -7,10 +7,10 @@
 
 SLF-Auth is an ambitious open-source authentication project designed to simplify and enhance the authentication process for developers. We believe in the power of open code to empower developers and make their lives better and easier.
 
-## What We Do
+## Main goal
 
-- **Robust Authentication**: We provide a secure and robust authentication system that ensures user data remains protected and confidential.
+- **Robust Authentication**: The project provide a secure and robust authentication system that ensures user data remains protected and confidential.
 
 - **Open-Source Philosophy**: SLF-Auth is an open-source project, and we welcome contributions from the community to make it even better.
 
-- **Pre-Made Authentication App**: Our project offers a full REST API and a user-friendly authentication application built with React, making integration into web applications seamless.
+- **Pre-Made Authentication App**: Our project offers a full REST API and a user-friendly authentication application built with React, making integration into web applications seamless for free.
